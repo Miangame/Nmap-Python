@@ -12,3 +12,9 @@ Tiene un menú con las siguientes opciones:
 </ol>
 
 Además cuando hagamos cualquier escaneo, ya sea de toda la red o de una IP concreta, los datos se almacenarán en una tabla de Base de Datos.
+
+
+Autores:
+https://github.com/gboquizo
+https://github.com/jponferrada26
+https://github.com/Miangame
