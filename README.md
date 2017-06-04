@@ -15,6 +15,6 @@ Además cuando hagamos cualquier escaneo, ya sea de toda la red o de una IP conc
 
 
 Autores:
-https://github.com/gboquizo
-https://github.com/jponferrada26
+https://github.com/gboquizo <br>
+https://github.com/jponferrada26<br>
 https://github.com/Miangame
